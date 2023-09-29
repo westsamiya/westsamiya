@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Samiya West
+- Hello, I’m Samiya West.
+
 
 <!---
 westsamiya/westsamiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
