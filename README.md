@@ -5,6 +5,7 @@ Repositories:
 - Bellabeat Case Study: Within this repository, you'll discover my inaugural data analysis undertaking, which serves as the capstone project for my completion of the Google Data Analytics Professional Certificate program.
 - Portfolio: This repository hosts a collection of several data analysis projects that utilize SQL, Rstudio, and Tableau. 
 - Excel-Dashboards: This repository includes links to excel interactive dashboards. 
+
 You can connect with me via email or through my LinkedIn profile.
 - Email: westsamiya@gmail.com
 - LinkedIn: www.linkedin.com/in/samiya-west
